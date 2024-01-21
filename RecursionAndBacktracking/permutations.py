@@ -17,7 +17,7 @@ def find(arr, n, ls, visited):
 
 
 res = []
-l = [1, 2, 3]
+l = [1, 2, 3, 4]
 find([], len(l), l, set())
 print(res)
 
